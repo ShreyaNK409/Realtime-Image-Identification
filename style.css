@@ -1,0 +1,46 @@
+body
+{
+    background-size: cover;
+}
+
+h1
+{
+    background-color: darkcyan;
+    color:paleturquoise;
+    margin: 0px;
+
+}
+
+.main_div
+{
+    float: none;
+    background-color: white;
+    color:cadetblue;
+    margin: 20px;
+}
+
+.Object_div
+{
+    float: none;
+    background-color:paleturquoise;
+    color:black;
+    border-radius: 10px;
+    width:25%;
+}
+
+.footer
+{
+    text-align: center;
+    background-color: darkcyan;
+    color:paleturquoise ;
+    width: 100%;
+    bottom:0;
+    position: fixed;
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 100px;
+}
